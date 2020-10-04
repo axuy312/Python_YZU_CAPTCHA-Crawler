@@ -6,7 +6,7 @@
 運行在Anaconda jupyter notebool上
 
     環境:
-    Anaconda 
-    Python
+    conda 4.3.12
+    Python 3.5.2
 
 此專案僅於期末專題
