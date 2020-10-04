@@ -3,6 +3,8 @@
 
 由1073302完成
 
+    功能:抓取學校Portal登入驗證碼並辨識結果
+
 運行在Anaconda jupyter notebool上
 
     環境:
