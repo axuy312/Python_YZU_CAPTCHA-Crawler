@@ -9,4 +9,6 @@
     conda 4.3.12
     Python 3.5.2
 
+[最終原始碼](https://github.com/axuy312/Python_YZU_CAPTCHA-Crawler/blob/gh-pages/YZU_CAPTCHA-Crawler.py)
+
 此專案僅於期末專題
