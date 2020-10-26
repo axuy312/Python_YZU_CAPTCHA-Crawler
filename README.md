@@ -1,4 +1,4 @@
-# Python_YZU_CAPTCHA-Crawler(因為學校拔掉驗證碼所以請更換驗證碼來源)
+# Python_YZU_CAPTCHA-Crawler
 此專案為個人興趣所研究
 
 由1073302完成
